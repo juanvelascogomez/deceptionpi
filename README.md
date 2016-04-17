@@ -7,7 +7,7 @@ DecepcionPI is a project based on analyzing SSH attacks on a honeypot installed 
 <p align="center"><img src="images/isacalogo.png" width="300" height="100" />
 <img src="images/mundohacker.png" width="300" height="100" /></p>
 
-## Authors
+## Who we are
 
 <p align="center">
 <img src="images/perfilJuan.jpg" width="100" height="100" />
