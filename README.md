@@ -4,8 +4,8 @@
 
 DecepcionPI is a project based on analyzing SSH attacks on a honeypot installed on Raspberry PI. This project was made for [RetoISACA 2016](http://www.isaca.org/chapters7/madrid/aboutourchapter/jovenes-profesionales/pages/reto.aspx). The idea was to create a honeynet with two Cowrie sensors in Spain (Granada and Madrid) sending the information to a centralized server to get access to more data. Using this data we can analyze the tendencies and metodologies of attacks worldwide and the kind of malware is trending in real time.
 
-<p align="center"><img src="images/isacalogo.png" width="300" height="100" />
-<img src="images/mundohacker.png" width="300" height="100" /></p>
+<p align="center"><img src="images/isacalogo.png" width="300" height="100" /></p>
+<p align="center"><img src="images/mundohacker.png" width="300" height="100" /></p>
 
 ## Who we are
 
