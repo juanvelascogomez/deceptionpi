@@ -1,3 +1,5 @@
+<p align="center"><img src="images/logo2.png"/></p>
+
 # Deception PI
 
 <p align="center"><img src="images/raspi.jpg"/></p>
